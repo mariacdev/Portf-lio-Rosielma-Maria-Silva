@@ -1,4 +1,4 @@
-# Portfólio de Projetos Data Science Analytics 
+# Portfólio de Projetos Data Analytics 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEFF02&height=120&section=header"/> 
 
