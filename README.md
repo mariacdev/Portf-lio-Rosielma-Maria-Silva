@@ -2,18 +2,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEFF02&height=120&section=header"/> 
 
-# Quem sou eu? 
-
-![SLIDE 1 PÁG  QUEM SOU EU 2](https://github.com/mariacdev/portf-lio-Rosielma-Maria-Silva/assets/134116444/3113d63b-1259-4a95-8180-f968690dbfac)
-
-
-# Currículo
-
-**Acesse Currículo:** [ROSIELMA MARIA SILVA CV.pdf](https://github.com/mariacdev/portf-lio-Rosielma-Maria-Silva/files/14146054/ROSIELMA.MARIA.SILVA.CV.pdf)
-
-![SLIDE 1 PÁG  CURRÍCULO 2](https://github.com/mariacdev/portf-lio-Rosielma-Maria-Silva/assets/134116444/0c33d19e-3ee6-4906-9de1-63d2379090a7)
-
-
 
 # Projetos 
 
